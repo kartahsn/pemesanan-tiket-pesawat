@@ -1,0 +1,20 @@
+[
+    {
+        "nama": "Karta",
+        "lokasi": "Central Park",
+        "judul": "Ant Man",
+        "hari": "Minggu",
+        "waktu": "15:00",
+        "jumlah": "1",
+        "total": 60000
+    },
+    {
+        "nama": "hoho",
+        "lokasi": "Central Park",
+        "judul": "Ant Man",
+        "hari": "Jum'at",
+        "waktu": "12:30",
+        "jumlah": "1",
+        "total": 60000
+    }
+]
