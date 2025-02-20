@@ -30,7 +30,7 @@ Merupakan aplikasi berbasis website untuk mendata pembelian tiket film sederhana
 
 ## Authors
 
-- [@Karta](https://www.github.com)
+- [@Karta](https://github.com/kartahsn)
 
 
 ## 🛠 Skills
